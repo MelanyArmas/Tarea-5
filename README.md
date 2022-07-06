@@ -18,4 +18,14 @@ Interpretar los resultados que se obtuvieron.
 
 MARCO TEÓRICO
 
-CAPÍTULO 8:
+CAPÍTULO 9:
+
+![](https://github.com/MelanyArmas/Tarea-5/blob/main/An%C3%A1lisis%20de%20ramas%2C%20lazos%20y%20nodos.png)
+
+![](https://github.com/MelanyArmas/Tarea-5/blob/main/An%C3%A1lisis%20de%20ramas%2C%20lazos%20y%20nodos%20(1).png)
+
+CAPÍTULO 10:
+
+![](https://github.com/MelanyArmas/Tarea-5/blob/main/MAGNETISMO%20Y%20ELECTROMAGNETISMO.png)
+
+![](https://github.com/MelanyArmas/Tarea-5/blob/main/MAGNETISMO%20Y%20ELECTROMAGNETISMO.png)
