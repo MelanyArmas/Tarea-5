@@ -68,3 +68,5 @@ voltajes de nodo.
 30. Determine el voltaje en los puntos A, B y C en la figura 9-34.
 
 SECCIÓN 10-1
+
+2.
