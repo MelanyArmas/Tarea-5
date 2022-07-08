@@ -156,7 +156,7 @@ Se ejerce una fuerza en el conductor cuando existe corriente.
 
 VIDEO
 
-
+https://youtu.be/eDYBd6GUEpk
 
 CONCLUSIONES Al momento de desarrollar los ejercicios y problemas propuestos en los capítulos 9 y 10, se pudo determinar que es necesario conocer la ley de ohm apliacada en circuitos en serie y paralelo, así como tambien se debe conocer los conceptos de ramas, nodos, lazos, magnetismo y electromagntismo para llegar a los resultdos correctos.
 
